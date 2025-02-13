@@ -1,0 +1,92 @@
+[
+{
+  "directory": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/build",
+  "command": "C:\\MINGWL\\mingw64\\bin\\g++.exe  @CMakeFiles/AlgorithmVisualizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlgorithmVisualizer.dir\\src\\main.cpp.obj -c C:\\Users\\kapil\\OneDrive\\Desktop\\algorithm-visualizer\\src\\main.cpp",
+  "file": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/main.cpp",
+  "output": "CMakeFiles/AlgorithmVisualizer.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/build",
+  "command": "C:\\MINGWL\\mingw64\\bin\\g++.exe  @CMakeFiles/AlgorithmVisualizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlgorithmVisualizer.dir\\src\\Visualizer.cpp.obj -c C:\\Users\\kapil\\OneDrive\\Desktop\\algorithm-visualizer\\src\\Visualizer.cpp",
+  "file": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/Visualizer.cpp",
+  "output": "CMakeFiles/AlgorithmVisualizer.dir/src/Visualizer.cpp.obj"
+},
+{
+  "directory": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/build",
+  "command": "C:\\MINGWL\\mingw64\\bin\\g++.exe  @CMakeFiles/AlgorithmVisualizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlgorithmVisualizer.dir\\src\\QuickSort.cpp.obj -c C:\\Users\\kapil\\OneDrive\\Desktop\\algorithm-visualizer\\src\\QuickSort.cpp",
+  "file": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/QuickSort.cpp",
+  "output": "CMakeFiles/AlgorithmVisualizer.dir/src/QuickSort.cpp.obj"
+},
+{
+  "directory": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/build",
+  "command": "C:\\MINGWL\\mingw64\\bin\\g++.exe  @CMakeFiles/AlgorithmVisualizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlgorithmVisualizer.dir\\src\\MergeSort.cpp.obj -c C:\\Users\\kapil\\OneDrive\\Desktop\\algorithm-visualizer\\src\\MergeSort.cpp",
+  "file": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/MergeSort.cpp",
+  "output": "CMakeFiles/AlgorithmVisualizer.dir/src/MergeSort.cpp.obj"
+},
+{
+  "directory": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/build",
+  "command": "C:\\MINGWL\\mingw64\\bin\\g++.exe  @CMakeFiles/AlgorithmVisualizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlgorithmVisualizer.dir\\src\\BFS.cpp.obj -c C:\\Users\\kapil\\OneDrive\\Desktop\\algorithm-visualizer\\src\\BFS.cpp",
+  "file": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/BFS.cpp",
+  "output": "CMakeFiles/AlgorithmVisualizer.dir/src/BFS.cpp.obj"
+},
+{
+  "directory": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/build",
+  "command": "C:\\MINGWL\\mingw64\\bin\\g++.exe  @CMakeFiles/AlgorithmVisualizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlgorithmVisualizer.dir\\src\\DFS.cpp.obj -c C:\\Users\\kapil\\OneDrive\\Desktop\\algorithm-visualizer\\src\\DFS.cpp",
+  "file": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/DFS.cpp",
+  "output": "CMakeFiles/AlgorithmVisualizer.dir/src/DFS.cpp.obj"
+},
+{
+  "directory": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/build",
+  "command": "C:\\MINGWL\\mingw64\\bin\\g++.exe  @CMakeFiles/AlgorithmVisualizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlgorithmVisualizer.dir\\src\\BubbleSort.cpp.obj -c C:\\Users\\kapil\\OneDrive\\Desktop\\algorithm-visualizer\\src\\BubbleSort.cpp",
+  "file": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/BubbleSort.cpp",
+  "output": "CMakeFiles/AlgorithmVisualizer.dir/src/BubbleSort.cpp.obj"
+},
+{
+  "directory": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/build",
+  "command": "C:\\MINGWL\\mingw64\\bin\\g++.exe  @CMakeFiles/AlgorithmVisualizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlgorithmVisualizer.dir\\src\\AlgorithmFactory.cpp.obj -c C:\\Users\\kapil\\OneDrive\\Desktop\\algorithm-visualizer\\src\\AlgorithmFactory.cpp",
+  "file": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/AlgorithmFactory.cpp",
+  "output": "CMakeFiles/AlgorithmVisualizer.dir/src/AlgorithmFactory.cpp.obj"
+},
+{
+  "directory": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/build",
+  "command": "C:\\MINGWL\\mingw64\\bin\\g++.exe  @CMakeFiles/AlgorithmVisualizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlgorithmVisualizer.dir\\src\\Button.cpp.obj -c C:\\Users\\kapil\\OneDrive\\Desktop\\algorithm-visualizer\\src\\Button.cpp",
+  "file": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/Button.cpp",
+  "output": "CMakeFiles/AlgorithmVisualizer.dir/src/Button.cpp.obj"
+},
+{
+  "directory": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/build",
+  "command": "C:\\MINGWL\\mingw64\\bin\\g++.exe  @CMakeFiles/AlgorithmVisualizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlgorithmVisualizer.dir\\src\\UIManager.cpp.obj -c C:\\Users\\kapil\\OneDrive\\Desktop\\algorithm-visualizer\\src\\UIManager.cpp",
+  "file": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/UIManager.cpp",
+  "output": "CMakeFiles/AlgorithmVisualizer.dir/src/UIManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/build",
+  "command": "C:\\MINGWL\\mingw64\\bin\\g++.exe  @CMakeFiles/AlgorithmVisualizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlgorithmVisualizer.dir\\src\\InputManager.cpp.obj -c C:\\Users\\kapil\\OneDrive\\Desktop\\algorithm-visualizer\\src\\InputManager.cpp",
+  "file": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/InputManager.cpp",
+  "output": "CMakeFiles/AlgorithmVisualizer.dir/src/InputManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/build",
+  "command": "C:\\MINGWL\\mingw64\\bin\\g++.exe  @CMakeFiles/AlgorithmVisualizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlgorithmVisualizer.dir\\src\\InsertionSort.cpp.obj -c C:\\Users\\kapil\\OneDrive\\Desktop\\algorithm-visualizer\\src\\InsertionSort.cpp",
+  "file": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/InsertionSort.cpp",
+  "output": "CMakeFiles/AlgorithmVisualizer.dir/src/InsertionSort.cpp.obj"
+},
+{
+  "directory": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/build",
+  "command": "C:\\MINGWL\\mingw64\\bin\\g++.exe  @CMakeFiles/AlgorithmVisualizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlgorithmVisualizer.dir\\src\\SelectionSort.cpp.obj -c C:\\Users\\kapil\\OneDrive\\Desktop\\algorithm-visualizer\\src\\SelectionSort.cpp",
+  "file": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/SelectionSort.cpp",
+  "output": "CMakeFiles/AlgorithmVisualizer.dir/src/SelectionSort.cpp.obj"
+},
+{
+  "directory": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/build",
+  "command": "C:\\MINGWL\\mingw64\\bin\\g++.exe  @CMakeFiles/AlgorithmVisualizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlgorithmVisualizer.dir\\src\\HeapSort.cpp.obj -c C:\\Users\\kapil\\OneDrive\\Desktop\\algorithm-visualizer\\src\\HeapSort.cpp",
+  "file": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/HeapSort.cpp",
+  "output": "CMakeFiles/AlgorithmVisualizer.dir/src/HeapSort.cpp.obj"
+},
+{
+  "directory": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/build",
+  "command": "C:\\MINGWL\\mingw64\\bin\\g++.exe  @CMakeFiles/AlgorithmVisualizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlgorithmVisualizer.dir\\src\\ShellSort.cpp.obj -c C:\\Users\\kapil\\OneDrive\\Desktop\\algorithm-visualizer\\src\\ShellSort.cpp",
+  "file": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/ShellSort.cpp",
+  "output": "CMakeFiles/AlgorithmVisualizer.dir/src/ShellSort.cpp.obj"
+}
+]
