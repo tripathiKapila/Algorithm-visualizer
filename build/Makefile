@@ -152,6 +152,30 @@ src/AlgorithmFactory.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmVisualizer.dir\build.make CMakeFiles/AlgorithmVisualizer.dir/src/AlgorithmFactory.cpp.s
 .PHONY : src/AlgorithmFactory.cpp.s
 
+src/AnimationManager.obj: src/AnimationManager.cpp.obj
+.PHONY : src/AnimationManager.obj
+
+# target to build an object file
+src/AnimationManager.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmVisualizer.dir\build.make CMakeFiles/AlgorithmVisualizer.dir/src/AnimationManager.cpp.obj
+.PHONY : src/AnimationManager.cpp.obj
+
+src/AnimationManager.i: src/AnimationManager.cpp.i
+.PHONY : src/AnimationManager.i
+
+# target to preprocess a source file
+src/AnimationManager.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmVisualizer.dir\build.make CMakeFiles/AlgorithmVisualizer.dir/src/AnimationManager.cpp.i
+.PHONY : src/AnimationManager.cpp.i
+
+src/AnimationManager.s: src/AnimationManager.cpp.s
+.PHONY : src/AnimationManager.s
+
+# target to generate assembly for a file
+src/AnimationManager.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmVisualizer.dir\build.make CMakeFiles/AlgorithmVisualizer.dir/src/AnimationManager.cpp.s
+.PHONY : src/AnimationManager.cpp.s
+
 src/BFS.obj: src/BFS.cpp.obj
 .PHONY : src/BFS.obj
 
@@ -416,6 +440,30 @@ src/ShellSort.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmVisualizer.dir\build.make CMakeFiles/AlgorithmVisualizer.dir/src/ShellSort.cpp.s
 .PHONY : src/ShellSort.cpp.s
 
+src/ThemeManager.obj: src/ThemeManager.cpp.obj
+.PHONY : src/ThemeManager.obj
+
+# target to build an object file
+src/ThemeManager.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmVisualizer.dir\build.make CMakeFiles/AlgorithmVisualizer.dir/src/ThemeManager.cpp.obj
+.PHONY : src/ThemeManager.cpp.obj
+
+src/ThemeManager.i: src/ThemeManager.cpp.i
+.PHONY : src/ThemeManager.i
+
+# target to preprocess a source file
+src/ThemeManager.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmVisualizer.dir\build.make CMakeFiles/AlgorithmVisualizer.dir/src/ThemeManager.cpp.i
+.PHONY : src/ThemeManager.cpp.i
+
+src/ThemeManager.s: src/ThemeManager.cpp.s
+.PHONY : src/ThemeManager.s
+
+# target to generate assembly for a file
+src/ThemeManager.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmVisualizer.dir\build.make CMakeFiles/AlgorithmVisualizer.dir/src/ThemeManager.cpp.s
+.PHONY : src/ThemeManager.cpp.s
+
 src/UIManager.obj: src/UIManager.cpp.obj
 .PHONY : src/UIManager.obj
 
@@ -500,6 +548,9 @@ help:
 	@echo ... src/AlgorithmFactory.obj
 	@echo ... src/AlgorithmFactory.i
 	@echo ... src/AlgorithmFactory.s
+	@echo ... src/AnimationManager.obj
+	@echo ... src/AnimationManager.i
+	@echo ... src/AnimationManager.s
 	@echo ... src/BFS.obj
 	@echo ... src/BFS.i
 	@echo ... src/BFS.s
@@ -533,6 +584,9 @@ help:
 	@echo ... src/ShellSort.obj
 	@echo ... src/ShellSort.i
 	@echo ... src/ShellSort.s
+	@echo ... src/ThemeManager.obj
+	@echo ... src/ThemeManager.i
+	@echo ... src/ThemeManager.s
 	@echo ... src/UIManager.obj
 	@echo ... src/UIManager.i
 	@echo ... src/UIManager.s

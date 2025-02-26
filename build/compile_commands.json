@@ -88,5 +88,17 @@
   "command": "C:\\MINGWL\\mingw64\\bin\\g++.exe  @CMakeFiles/AlgorithmVisualizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlgorithmVisualizer.dir\\src\\ShellSort.cpp.obj -c C:\\Users\\kapil\\OneDrive\\Desktop\\algorithm-visualizer\\src\\ShellSort.cpp",
   "file": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/ShellSort.cpp",
   "output": "CMakeFiles/AlgorithmVisualizer.dir/src/ShellSort.cpp.obj"
+},
+{
+  "directory": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/build",
+  "command": "C:\\MINGWL\\mingw64\\bin\\g++.exe  @CMakeFiles/AlgorithmVisualizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlgorithmVisualizer.dir\\src\\AnimationManager.cpp.obj -c C:\\Users\\kapil\\OneDrive\\Desktop\\algorithm-visualizer\\src\\AnimationManager.cpp",
+  "file": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/AnimationManager.cpp",
+  "output": "CMakeFiles/AlgorithmVisualizer.dir/src/AnimationManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/build",
+  "command": "C:\\MINGWL\\mingw64\\bin\\g++.exe  @CMakeFiles/AlgorithmVisualizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\AlgorithmVisualizer.dir\\src\\ThemeManager.cpp.obj -c C:\\Users\\kapil\\OneDrive\\Desktop\\algorithm-visualizer\\src\\ThemeManager.cpp",
+  "file": "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/ThemeManager.cpp",
+  "output": "CMakeFiles/AlgorithmVisualizer.dir/src/ThemeManager.cpp.obj"
 }
 ]

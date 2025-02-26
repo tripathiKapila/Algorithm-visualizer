@@ -278,6 +278,8 @@ CMakeFiles/AlgorithmVisualizer.dir/src/Visualizer.cpp.obj: \
  C:/MINGWL/mingw64/lib/gcc/x86_64-w64-mingw32/14.1.0/include/c++/array \
  C:/MINGWL/mingw64/lib/gcc/x86_64-w64-mingw32/14.1.0/include/c++/compare \
  C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/include/InputManager.hpp \
+ C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/include/AnimationManager.hpp \
+ C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/include/ThemeManager.hpp \
  C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/include/Button.hpp \
  C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/include/UIManager.hpp \
  C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/include/InputManager.hpp \

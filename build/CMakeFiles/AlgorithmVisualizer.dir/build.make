@@ -293,6 +293,36 @@ CMakeFiles/AlgorithmVisualizer.dir/src/ShellSort.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AlgorithmVisualizer.dir/src/ShellSort.cpp.s"
 	C:\MINGWL\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\kapil\OneDrive\Desktop\algorithm-visualizer\src\ShellSort.cpp -o CMakeFiles\AlgorithmVisualizer.dir\src\ShellSort.cpp.s
 
+CMakeFiles/AlgorithmVisualizer.dir/src/AnimationManager.cpp.obj: CMakeFiles/AlgorithmVisualizer.dir/flags.make
+CMakeFiles/AlgorithmVisualizer.dir/src/AnimationManager.cpp.obj: CMakeFiles/AlgorithmVisualizer.dir/includes_CXX.rsp
+CMakeFiles/AlgorithmVisualizer.dir/src/AnimationManager.cpp.obj: C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/AnimationManager.cpp
+CMakeFiles/AlgorithmVisualizer.dir/src/AnimationManager.cpp.obj: CMakeFiles/AlgorithmVisualizer.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\kapil\OneDrive\Desktop\algorithm-visualizer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/AlgorithmVisualizer.dir/src/AnimationManager.cpp.obj"
+	C:\MINGWL\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AlgorithmVisualizer.dir/src/AnimationManager.cpp.obj -MF CMakeFiles\AlgorithmVisualizer.dir\src\AnimationManager.cpp.obj.d -o CMakeFiles\AlgorithmVisualizer.dir\src\AnimationManager.cpp.obj -c C:\Users\kapil\OneDrive\Desktop\algorithm-visualizer\src\AnimationManager.cpp
+
+CMakeFiles/AlgorithmVisualizer.dir/src/AnimationManager.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AlgorithmVisualizer.dir/src/AnimationManager.cpp.i"
+	C:\MINGWL\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\kapil\OneDrive\Desktop\algorithm-visualizer\src\AnimationManager.cpp > CMakeFiles\AlgorithmVisualizer.dir\src\AnimationManager.cpp.i
+
+CMakeFiles/AlgorithmVisualizer.dir/src/AnimationManager.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AlgorithmVisualizer.dir/src/AnimationManager.cpp.s"
+	C:\MINGWL\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\kapil\OneDrive\Desktop\algorithm-visualizer\src\AnimationManager.cpp -o CMakeFiles\AlgorithmVisualizer.dir\src\AnimationManager.cpp.s
+
+CMakeFiles/AlgorithmVisualizer.dir/src/ThemeManager.cpp.obj: CMakeFiles/AlgorithmVisualizer.dir/flags.make
+CMakeFiles/AlgorithmVisualizer.dir/src/ThemeManager.cpp.obj: CMakeFiles/AlgorithmVisualizer.dir/includes_CXX.rsp
+CMakeFiles/AlgorithmVisualizer.dir/src/ThemeManager.cpp.obj: C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/ThemeManager.cpp
+CMakeFiles/AlgorithmVisualizer.dir/src/ThemeManager.cpp.obj: CMakeFiles/AlgorithmVisualizer.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\kapil\OneDrive\Desktop\algorithm-visualizer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/AlgorithmVisualizer.dir/src/ThemeManager.cpp.obj"
+	C:\MINGWL\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AlgorithmVisualizer.dir/src/ThemeManager.cpp.obj -MF CMakeFiles\AlgorithmVisualizer.dir\src\ThemeManager.cpp.obj.d -o CMakeFiles\AlgorithmVisualizer.dir\src\ThemeManager.cpp.obj -c C:\Users\kapil\OneDrive\Desktop\algorithm-visualizer\src\ThemeManager.cpp
+
+CMakeFiles/AlgorithmVisualizer.dir/src/ThemeManager.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AlgorithmVisualizer.dir/src/ThemeManager.cpp.i"
+	C:\MINGWL\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\kapil\OneDrive\Desktop\algorithm-visualizer\src\ThemeManager.cpp > CMakeFiles\AlgorithmVisualizer.dir\src\ThemeManager.cpp.i
+
+CMakeFiles/AlgorithmVisualizer.dir/src/ThemeManager.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AlgorithmVisualizer.dir/src/ThemeManager.cpp.s"
+	C:\MINGWL\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\kapil\OneDrive\Desktop\algorithm-visualizer\src\ThemeManager.cpp -o CMakeFiles\AlgorithmVisualizer.dir\src\ThemeManager.cpp.s
+
 # Object files for target AlgorithmVisualizer
 AlgorithmVisualizer_OBJECTS = \
 "CMakeFiles/AlgorithmVisualizer.dir/src/main.cpp.obj" \
@@ -309,7 +339,9 @@ AlgorithmVisualizer_OBJECTS = \
 "CMakeFiles/AlgorithmVisualizer.dir/src/InsertionSort.cpp.obj" \
 "CMakeFiles/AlgorithmVisualizer.dir/src/SelectionSort.cpp.obj" \
 "CMakeFiles/AlgorithmVisualizer.dir/src/HeapSort.cpp.obj" \
-"CMakeFiles/AlgorithmVisualizer.dir/src/ShellSort.cpp.obj"
+"CMakeFiles/AlgorithmVisualizer.dir/src/ShellSort.cpp.obj" \
+"CMakeFiles/AlgorithmVisualizer.dir/src/AnimationManager.cpp.obj" \
+"CMakeFiles/AlgorithmVisualizer.dir/src/ThemeManager.cpp.obj"
 
 # External object files for target AlgorithmVisualizer
 AlgorithmVisualizer_EXTERNAL_OBJECTS =
@@ -329,6 +361,8 @@ AlgorithmVisualizer.exe: CMakeFiles/AlgorithmVisualizer.dir/src/InsertionSort.cp
 AlgorithmVisualizer.exe: CMakeFiles/AlgorithmVisualizer.dir/src/SelectionSort.cpp.obj
 AlgorithmVisualizer.exe: CMakeFiles/AlgorithmVisualizer.dir/src/HeapSort.cpp.obj
 AlgorithmVisualizer.exe: CMakeFiles/AlgorithmVisualizer.dir/src/ShellSort.cpp.obj
+AlgorithmVisualizer.exe: CMakeFiles/AlgorithmVisualizer.dir/src/AnimationManager.cpp.obj
+AlgorithmVisualizer.exe: CMakeFiles/AlgorithmVisualizer.dir/src/ThemeManager.cpp.obj
 AlgorithmVisualizer.exe: CMakeFiles/AlgorithmVisualizer.dir/build.make
 AlgorithmVisualizer.exe: C:/SFML-2.6.2/lib/libsfml-graphics-d.a
 AlgorithmVisualizer.exe: C:/SFML-2.6.2/lib/libsfml-window-d.a
@@ -336,7 +370,7 @@ AlgorithmVisualizer.exe: C:/SFML-2.6.2/lib/libsfml-system-d.a
 AlgorithmVisualizer.exe: CMakeFiles/AlgorithmVisualizer.dir/linkLibs.rsp
 AlgorithmVisualizer.exe: CMakeFiles/AlgorithmVisualizer.dir/objects1.rsp
 AlgorithmVisualizer.exe: CMakeFiles/AlgorithmVisualizer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\kapil\OneDrive\Desktop\algorithm-visualizer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable AlgorithmVisualizer.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\kapil\OneDrive\Desktop\algorithm-visualizer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Linking CXX executable AlgorithmVisualizer.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\AlgorithmVisualizer.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

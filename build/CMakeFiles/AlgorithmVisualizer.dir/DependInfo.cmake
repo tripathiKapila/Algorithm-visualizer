@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/AlgorithmFactory.cpp" "CMakeFiles/AlgorithmVisualizer.dir/src/AlgorithmFactory.cpp.obj" "gcc" "CMakeFiles/AlgorithmVisualizer.dir/src/AlgorithmFactory.cpp.obj.d"
+  "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/AnimationManager.cpp" "CMakeFiles/AlgorithmVisualizer.dir/src/AnimationManager.cpp.obj" "gcc" "CMakeFiles/AlgorithmVisualizer.dir/src/AnimationManager.cpp.obj.d"
   "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/BFS.cpp" "CMakeFiles/AlgorithmVisualizer.dir/src/BFS.cpp.obj" "gcc" "CMakeFiles/AlgorithmVisualizer.dir/src/BFS.cpp.obj.d"
   "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/BubbleSort.cpp" "CMakeFiles/AlgorithmVisualizer.dir/src/BubbleSort.cpp.obj" "gcc" "CMakeFiles/AlgorithmVisualizer.dir/src/BubbleSort.cpp.obj.d"
   "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/Button.cpp" "CMakeFiles/AlgorithmVisualizer.dir/src/Button.cpp.obj" "gcc" "CMakeFiles/AlgorithmVisualizer.dir/src/Button.cpp.obj.d"
@@ -20,6 +21,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/QuickSort.cpp" "CMakeFiles/AlgorithmVisualizer.dir/src/QuickSort.cpp.obj" "gcc" "CMakeFiles/AlgorithmVisualizer.dir/src/QuickSort.cpp.obj.d"
   "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/SelectionSort.cpp" "CMakeFiles/AlgorithmVisualizer.dir/src/SelectionSort.cpp.obj" "gcc" "CMakeFiles/AlgorithmVisualizer.dir/src/SelectionSort.cpp.obj.d"
   "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/ShellSort.cpp" "CMakeFiles/AlgorithmVisualizer.dir/src/ShellSort.cpp.obj" "gcc" "CMakeFiles/AlgorithmVisualizer.dir/src/ShellSort.cpp.obj.d"
+  "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/ThemeManager.cpp" "CMakeFiles/AlgorithmVisualizer.dir/src/ThemeManager.cpp.obj" "gcc" "CMakeFiles/AlgorithmVisualizer.dir/src/ThemeManager.cpp.obj.d"
   "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/UIManager.cpp" "CMakeFiles/AlgorithmVisualizer.dir/src/UIManager.cpp.obj" "gcc" "CMakeFiles/AlgorithmVisualizer.dir/src/UIManager.cpp.obj.d"
   "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/Visualizer.cpp" "CMakeFiles/AlgorithmVisualizer.dir/src/Visualizer.cpp.obj" "gcc" "CMakeFiles/AlgorithmVisualizer.dir/src/Visualizer.cpp.obj.d"
   "C:/Users/kapil/OneDrive/Desktop/algorithm-visualizer/src/main.cpp" "CMakeFiles/AlgorithmVisualizer.dir/src/main.cpp.obj" "gcc" "CMakeFiles/AlgorithmVisualizer.dir/src/main.cpp.obj.d"
