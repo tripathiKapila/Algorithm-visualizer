@@ -12,13 +12,14 @@ enum class InputAction {
     Load,
     Reset,
     SpeedUp,
-    SpeedDown
+    SpeedDown,
+    Rewind,       // New action
+    FastForward   // New action
 };
 
 class InputManager {
 public:
     using ActionCallback = std::function<void()>;
-
     void bindKey(sf::Keyboard::Key key, InputAction action);
     void bindAction(InputAction action, ActionCallback callback);
     void processEvent(const sf::Event& event);

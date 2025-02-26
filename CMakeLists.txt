@@ -32,6 +32,9 @@ set(SOURCES
     ${CMAKE_SOURCE_DIR}/src/SelectionSort.cpp
     ${CMAKE_SOURCE_DIR}/src/HeapSort.cpp
     ${CMAKE_SOURCE_DIR}/src/ShellSort.cpp
+    # New files for enhancements:
+    ${CMAKE_SOURCE_DIR}/src/AnimationManager.cpp
+    ${CMAKE_SOURCE_DIR}/src/ThemeManager.cpp
 )
 
 add_executable(AlgorithmVisualizer ${SOURCES})
