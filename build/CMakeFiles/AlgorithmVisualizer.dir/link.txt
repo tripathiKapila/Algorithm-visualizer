@@ -1,0 +1,3 @@
+C:\mingw64\bin\cmake.exe -E rm -f CMakeFiles\AlgorithmVisualizer.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\AlgorithmVisualizer.dir/objects.a @CMakeFiles\AlgorithmVisualizer.dir\objects1.rsp
+g++ -Wl,--whole-archive CMakeFiles\AlgorithmVisualizer.dir/objects.a -Wl,--no-whole-archive -o AlgorithmVisualizer.exe -Wl,--out-implib,libAlgorithmVisualizer.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\AlgorithmVisualizer.dir\linkLibs.rsp
